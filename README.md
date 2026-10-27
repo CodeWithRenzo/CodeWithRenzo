@@ -183,8 +183,8 @@ and my work as an AI-powered software developer.
 
 <p align="center">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrenzo&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&border_color=303030&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrenzo&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY"
     alt="GitHub Contribution Activity Graph"
   />
 </p>
