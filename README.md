@@ -1,5 +1,10 @@
+<!-- =====================================================
+     RENZO LAZARTE | GITHUB PROFILE
+     STYLE: MONOCHROME EDITORIAL
+     ===================================================== -->
 
 <!-- HEADER -->
+
 <p align="left">
   <sub>RENZO LAZARTE</sub>
   &nbsp; / &nbsp;
@@ -14,60 +19,59 @@
 <p align="left">
   <img
     src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=FFFFFF&background=0D0D0D&vCenter=true&width=560&height=38&repeat=true&lines=AI-POWERED+SOFTWARE+DEVELOPER;WEB+APPLICATIONS+%2F+AUTOMATION;DESIGN.+BUILD.+REFINE.+REPEAT."
-    alt="AI-Powered Software Developer — Web Applications and Automation"
+    alt="AI-powered software developer"
   />
 </p>
 
 <p align="left">
-  An independent developer exploring the intersection of web
-  technologies, AI-assisted development, and practical software.
-  I enjoy turning ideas into functional products with thoughtful
-  interfaces, useful features, and maintainable code.
+  I build web applications and explore practical uses of AI in software
+  development. My focus is on creating useful products with clean
+  interfaces, thoughtful features, and maintainable code.
 </p>
 
 <p align="left">
   <a href="https://renzolazarte.freedev.app">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=flat-square&logo=firefoxbrowser&logoColor=FFFFFF&labelColor=0D0D0D"
+      src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=flat-square&logo=firefoxbrowser&logoColor=FFFFFF"
       alt="Portfolio"
     />
   </a>
   <a href="https://github.com/codewithrenzo?tab=repositories">
     <img
-      src="https://img.shields.io/badge/EXPLORE_PROJECTS-0D0D0D?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D0D0D"
-      alt="Explore Projects"
+      src="https://img.shields.io/badge/PROJECTS-0D0D0D?style=flat-square&logo=github&logoColor=FFFFFF"
+      alt="Projects"
     />
   </a>
   <a href="https://github.com/codewithrenzo">
     <img
       src="https://komarev.com/ghpvc/?username=codewithrenzo&style=flat-square&color=0D0D0D&label=PROFILE+VIEWS"
-      alt="Profile Views"
+      alt="Profile views"
     />
   </a>
 </p>
 
 ---
 
-### 01 / THE APPROACH
+### 01 / HOW I WORK
 
 <table>
   <thead>
     <tr>
-      <th align="left" width="33%">01 — BUILD</th>
-      <th align="left" width="33%">02 — REFINE</th>
-      <th align="left" width="34%">03 — IMPROVE</th>
+      <th align="left" width="33%">BUILD</th>
+      <th align="left" width="33%">REFINE</th>
+      <th align="left" width="34%">IMPROVE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        Turn concepts into functional web applications and digital products.
+        Turn ideas into functional web applications and digital products.
       </td>
       <td valign="top">
-        Prioritize intuitive interfaces, responsive layouts, and maintainable code.
+        Pay attention to usability, responsive layouts, and code quality.
       </td>
       <td valign="top">
-        Experiment with new technologies and improve projects through iteration.
+        Learn from each project and keep finding better ways to solve problems.
       </td>
     </tr>
   </tbody>
@@ -75,22 +79,22 @@
 
 ---
 
-### 02 / SELECTED WORK
+### 02 / SELECTED PROJECTS
 
 <p>
-  <sub>01 &nbsp; / &nbsp; PRODUCTIVITY</sub>
+  <sub>01 / PRODUCTIVITY</sub>
 </p>
 
 <h3>Build A Resume</h3>
 
-An ATS-friendly resume builder designed to help users create professional
-resumes through a practical editing experience.
+An ATS-friendly resume builder that helps users create professional resumes
+through a straightforward editing experience.
 
 <p>
   <a href="https://github.com/codewithrenzo/build-a-resume">
     <img
       src="https://img.shields.io/badge/VIEW_SOURCE-FFFFFF?style=flat-square&logo=github&logoColor=000000"
-      alt="View Build A Resume source code"
+      alt="View source code"
     />
   </a>
 </p>
@@ -98,18 +102,18 @@ resumes through a practical editing experience.
 <hr>
 
 <p>
-  <sub>02 &nbsp; / &nbsp; ENTERTAINMENT DISCOVERY</sub>
+  <sub>02 / ENTERTAINMENT DISCOVERY</sub>
 </p>
 
 <h3>Binged</h3>
 
-A movie and television discovery platform focused on helping users explore
-trending titles, popular releases, and highly rated entertainment.
+A movie and television discovery platform for exploring trending titles,
+popular releases, and highly rated entertainment.
 
 <p>
   <a href="https://binged.freedev.app/">
     <img
-      src="https://img.shields.io/badge/OPEN_LIVE_WEBSITE-FFFFFF?style=flat-square&logo=firefoxbrowser&logoColor=000000"
+      src="https://img.shields.io/badge/VISIT_BINGED-FFFFFF?style=flat-square&logo=firefoxbrowser&logoColor=000000"
       alt="Visit Binged"
     />
   </a>
@@ -118,19 +122,19 @@ trending titles, popular releases, and highly rated entertainment.
 <hr>
 
 <p>
-  <sub>03 &nbsp; / &nbsp; PERSONAL BRAND</sub>
+  <sub>03 / PERSONAL WEBSITE</sub>
 </p>
 
 <h3>Personal Portfolio</h3>
 
-My personal portfolio showcasing development projects, experiments,
-and my work as an AI-powered software developer.
+My portfolio showcases my projects, development work, and experiments
+in building digital products.
 
 <p>
   <a href="https://renzolazarte.freedev.app">
     <img
-      src="https://img.shields.io/badge/VISIT_PORTFOLIO-FFFFFF?style=flat-square&logo=firefoxbrowser&logoColor=000000"
-      alt="Visit Personal Portfolio"
+      src="https://img.shields.io/badge/VIEW_PORTFOLIO-FFFFFF?style=flat-square&logo=firefoxbrowser&logoColor=000000"
+      alt="View portfolio"
     />
   </a>
 </p>
@@ -140,7 +144,7 @@ and my work as an AI-powered software developer.
 ### 03 / TECHNOLOGY
 
 <p>
-  <sub>LANGUAGES & WEB</sub>
+  <sub>LANGUAGES AND WEB</sub>
 </p>
 
 <p>
@@ -152,7 +156,7 @@ and my work as an AI-powered software developer.
 </p>
 
 <p>
-  <sub>DATABASE & TOOLS</sub>
+  <sub>DATABASE AND DEVELOPMENT TOOLS</sub>
 </p>
 
 <p>
@@ -164,8 +168,8 @@ and my work as an AI-powered software developer.
 
 <p>
   <sub>
-    A selection of technologies used across my projects.
-    The stack evolves as I explore new ideas.
+    Technologies I use across my projects. My toolkit continues to evolve
+    as I learn and experiment.
   </sub>
 </p>
 
@@ -177,44 +181,39 @@ and my work as an AI-powered software developer.
   <img
     width="100%"
     src="https://streak-stats.demolab.com/?user=codewithrenzo&theme=dark&background=0D0D0D&border=303030&stroke=303030&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&hide_border=true"
-    alt="GitHub Total Contributions, Current Streak, and Longest Streak"
+    alt="Total contributions, current streak, and longest streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrenzo&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&border_color=303030&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph-ivory-phi.vercel.app/graph?username=codewithrenzo&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
+    alt="GitHub contribution activity graph"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrenzo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF"
-    alt="Most Used Programming Languages"
+    alt="Most used programming languages"
   />
 </p>
 
 ---
 
-### 05 / CONNECT
+### 05 / FIND ME ONLINE
 
 <p>
-  Interested in my projects or what I'm building?
-  Explore my work and follow along with future development.
-</p>
-
-<p>
-  <a href="https://github.com/codewithrenzo">GITHUB</a>
+  <a href="https://github.com/codewithrenzo">GitHub</a>
   &nbsp; / &nbsp;
-  <a href="https://renzolazarte.freedev.app">PORTFOLIO</a>
+  <a href="https://renzolazarte.freedev.app">Portfolio</a>
   &nbsp; / &nbsp;
-  <a href="https://binged.freedev.app/">BINGED</a>
+  <a href="https://binged.freedev.app/">Binged</a>
 </p>
 
 ---
 
 <p align="left">
-  <sub>INDEPENDENTLY BUILT. CONTINUOUSLY IMPROVED.</sub>
+  <sub>BUILT WITH PURPOSE. IMPROVED WITH EVERY ITERATION.</sub>
 </p>
